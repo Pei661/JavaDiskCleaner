@@ -1,1 +1,3 @@
-JDClear is a disk cleaning tool written in Java by an unknown developer. It currently supports 12 languages and automatically detects the system language. It can perform deep cleaning and helps fix the issue of your computer's disk space mysteriously showing as full.
+# JDClear
+
+JDClear is a disk cleaning tool written in Java by a nobody developer. It currently supports 12 languages and automatically detects the system language. It performs deep cleaning to solve the problem of your disk space mysteriously filling up.
