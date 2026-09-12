@@ -1,0 +1,23 @@
+# 编译产物 
+out/ 
+build/ 
+package/ 
+ 
+# 打包输出 
+JDClear/ 
+JDClear-Release/ 
+ 
+# 运行时目录 
+backup/ 
+log/ 
+ 
+# 配置文件 
+config.properties 
+ 
+# IDE 
+.idea/ 
+*.iml 
+ 
+# 系统 
+.DS_Store 
+Thumbs.db 
